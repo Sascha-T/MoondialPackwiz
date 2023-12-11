@@ -1296,8 +1296,18 @@ hash = "ea7339a3a6d0832a9f12fec8029a4bcd067565cb053f40846c69502681b74a1f"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
+metafile = true
+
+[[files]]
 file = "mods/auudio-forge.pw.toml"
 hash = "908b881dc7d5c6372e5afc39594cda0331e6819f3760baa3c0459e5a020ae2bf"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "23c80ede3b259c1c908ace792f0b95d7c6cb2155f2fcc1b3493e569b656162c2"
 metafile = true
 
 [[files]]
@@ -1341,13 +1351,43 @@ hash = "7b6e63c2a4751ff09cd950ddc780ad00175c8132d3cc0163cba66caa4d04ca8e"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "36217218d7336e59ae18b3b8e0acb37c9d4a432d889a1808840012b7c9d92a42"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "12ca499aff1c91c2e2ec3d094d4b9d6799bc2d2c8445827ed2ca07419f323605"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "4f4d1b11afed0ce9c7723f0e5d13806c195930583887cc8fcaa5682e48a6b08d"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "89284d711993f589311bb1e66e949e8769911a318391d0535c3f0327f3977b80"
 metafile = true
 
 [[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "97a03319b67bb86c29c05d1d482434c7f3a3b7f0a48c95f1a156b437c80ba213"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "f5bd64cefade8ec8c17b4b061bbe643b5387bc36962c76ea8e2c6c90cbffd173"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "422c5f649d9316f8b6572748a5633e0ab6bd8a8fa3c40e88b192041d1d53cc2c"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "2501a135e13170ec58f946ba34eea02562651a4e4ce3277802b912d32bf8a507"
 metafile = true
 
 [[files]]
@@ -1387,6 +1427,11 @@ metafile = true
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
 hash = "f3879c7f8e075e1474c6a0da9b5c13696ba8aeb28e555eea6d3ceb3108c5cd85"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
 metafile = true
 
 [[files]]
@@ -1439,8 +1484,18 @@ hash = "b5d50a2815512a7e2224173edd77f7b798c29607640f8144e4c3f122d61b40d6"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "3219dfca4b249e6f4fd34c4699455841feaea6d70f154bdb927fd9be8d9d3631"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "79be136bfe56867556786ec4abe2d3d7ad35d8f33070f55c42590820e698fc56"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "abeb5b8f5b1d87281a4afb215bf2ff36cb6b382e4e5d99fc243d5607ad724ce4"
 metafile = true
 
 [[files]]
@@ -1488,8 +1543,18 @@ hash = "179de6180653ff93abb091b60569b0860c3b74d7197f7af8cc4f4547aa3dc128"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "73e49c8af65506abed587959ac3a1b192f9e5bca65fc0188495f3e7c5af950f9"
+metafile = true
+
+[[files]]
 file = "mods/mafglib.pw.toml"
 hash = "20628ba940ee3bdffc00ca912e818a7aab852eff65b2f4647efab8f1456dbd9d"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "485e1aefa205baa57b29c54af2987257e06ef09516a32fb70759bbc700f2a337"
 metafile = true
 
 [[files]]
@@ -1518,8 +1583,23 @@ hash = "33312611b965e6b4e35a72b5a87df67a183dd2c47c1198a495f7d875162ee66b"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "286d62b4f15a54acaedfd98c90293d8db5e0ae28c95f78726274c85386f2b7c1"
+metafile = true
+
+[[files]]
 file = "mods/pollen.pw.toml"
 hash = "234a07addb29fb16503b9e45c15feacfe1dbd7604788d72e3930aefad352f141"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
+metafile = true
+
+[[files]]
+file = "mods/rebornstorage.pw.toml"
+hash = "3baaa168e8351621ade13a82834cd26d33ad69e538b22e5fa190f148a3f502f2"
 metafile = true
 
 [[files]]
@@ -1558,8 +1638,28 @@ hash = "7863c6ff5c8ee607d67b7f8065904f99a81903f983adc7dca35184e760358993"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "8ab812c7cb74ed2ebb54b760f5e66068e873569ad3651ba713fc45ca4b1ecc2e"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "5e0bff4cc3a02adb072c3101ccfda136f2d873921f5dab0d1f8fb2d1d1322fe9"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "1a96355845932926d26ff91ad461d942d3ed2b5640551fbf352957fb2f8a1e41"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "53ace67b4c03bdccf7e31726a8055d8a80139295c57f7bf42aa113a6424df0bb"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "660ae5588dd8b68e405248124cbe73e29e54d997a0ed328158a86aa2e90d37e7"
 metafile = true
 
 [[files]]
@@ -1573,8 +1673,23 @@ hash = "ef642f40e1f21d2e97bea3fd667b4ca66fa1e8a9fdf7835681dc024469106f51"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "5beb03d52b7e600050191fca1694eae3d70622a3f02f9cf423bf8fcd4f5f6d26"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-levelling-addon.pw.toml"
+hash = "50bceab0843e98643b9bf6b68476b84dafa23901ad2e013378c5925296ff2a0d"
+metafile = true
+
+[[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "e073639d233291d1fff419b93211e3723ada6cba428e78c4de7afa76c87571ba"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-computers.pw.toml"
+hash = "f75a433059f1caf38c5548ea8949ecd24b717e7c14d2d2f47982aefdbdf50e84"
 metafile = true
 
 [[files]]
@@ -1585,6 +1700,10 @@ metafile = true
 [[files]]
 file = "mods/worldedit-mod-7.2.10.jar.disabled"
 hash = "3d7f06f7a208f58e212e8d0dd7cdb0f14e8f0b8a448f8358f872777fb0bfad4d"
+
+[[files]]
+file = "readme.md"
+hash = "127befb77459410617831ae7f4aa5f75f041fe3b782b7ca581cf81fa30565d2d"
 
 [[files]]
 file = "servers.dat"
