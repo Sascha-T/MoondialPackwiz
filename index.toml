@@ -1553,6 +1553,11 @@ hash = "20628ba940ee3bdffc00ca912e818a7aab852eff65b2f4647efab8f1456dbd9d"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "485e1aefa205baa57b29c54af2987257e06ef09516a32fb70759bbc700f2a337"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "5509ff135d46d354664720f02f182bda6ba8697f22b49a42a8cf02aef6112763"
 metafile = true
@@ -1665,6 +1670,16 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "ef642f40e1f21d2e97bea3fd667b4ca66fa1e8a9fdf7835681dc024469106f51"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "5beb03d52b7e600050191fca1694eae3d70622a3f02f9cf423bf8fcd4f5f6d26"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-levelling-addon.pw.toml"
+hash = "50bceab0843e98643b9bf6b68476b84dafa23901ad2e013378c5925296ff2a0d"
 metafile = true
 
 [[files]]
