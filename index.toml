@@ -889,10 +889,6 @@ file = "fancymenu_instance_data/extensions/fmaudio/muted_audio_items.properties"
 hash = "a96c24a174c93901ab3d5de6b58a1c49128a56deb3b4b01330f885dbb8ebb9bc"
 
 [[files]]
-file = "icon.png"
-hash = "91b88237f0ff7159891b759877868c96b5ae02613b5255494c0bb01e195d8b8c"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
