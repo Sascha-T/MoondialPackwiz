@@ -1,0 +1,121 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 98
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 409a180f-b038-44f6-9792-55f9662360f31702129007132
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 143
+  action = deep_customization_element:title_screen_branding
+  actionid = 40cad669-e2c5-4f42-91d9-bb88d91e0c731702129007144
+  y = 192
+  height = 60
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 235
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = bc04fa7f-1d18-434f-9595-86231ea24d9e1702129007144
+  y = 234
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 335
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 84ccd5d1-2876-4db9-8abe-9774b7c4c00e1702129007144
+  y = 163
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 95
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 06394a33-dd4a-49a1-af10-977d2b54e2831702129007144
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = mid-centered
+  splash_color = #ffff00
+  hidden = true
+  x = 97
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = fca51db9-d30f-4649-b7aa-729a84c120261702129007145
+  y = -52
+  height = 30
+}
+
+customization {
+  path = menuAssets/text.png
+  orientation = mid-centered
+  x = -137
+  width = 278
+  action = addtexture
+  actionid = d66e0583-5c21-44ed-9691-1296391ae1901702129107878
+  y = -95
+  height = 52
+}
+
+customization {
+  path = 
+  orientation = top-left
+  x = 0
+  width = 0
+  action = addtexture
+  actionid = 31a7ab49-19d0-46da-b673-617171949ec41702129024736
+  y = 5
+  height = 100
+}
+
+customization {
+  orientation = mid-centered
+  basecolor = #ffff00
+  shadow = true
+  splashfilepath = menuAssets/splashes.txt
+  rotation = -20.0
+  scale = 1.0
+  refresh = true
+  bouncing = true
+  vanilla-like = false
+  x = 91
+  actionid = 821ef12d-de7a-4d51-87b0-a1f9ec1aa4661702129301042
+  action = addsplash
+  y = -58
+}
+

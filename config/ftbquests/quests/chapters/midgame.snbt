@@ -1,0 +1,12 @@
+{
+	id: "0B4DC83705A0628C"
+	group: ""
+	order_index: 1
+	filename: "midgame"
+	title: "Midgame"
+	icon: "mekanism:alloy_atomic"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+	quest_links: [ ]
+}

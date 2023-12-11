@@ -1,0 +1,12 @@
+{
+	id: "4143407484A81061"
+	group: ""
+	order_index: 2
+	filename: "endgame"
+	title: "Endgame"
+	icon: "ae2:singularity"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+	quest_links: [ ]
+}

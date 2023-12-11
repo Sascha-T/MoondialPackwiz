@@ -1,0 +1,88 @@
+{
+	id: "568031B93624534F"
+	group: ""
+	order_index: 0
+	filename: "the_beginning"
+	title: "The Beginning"
+	icon: "create:white_sail"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "One small turn for a human..."
+			icon: "kontraption:alloy_lightweight"
+			x: 0.0d
+			y: 0.0d
+			shape: "gear"
+			subtitle: "...one big revolution for the humankind."
+			size: 3.0d
+			id: "6BE8393989EBB1EA"
+			tasks: [{
+				id: "12EE152F81224E82"
+				type: "checkmark"
+				title: "Have fun!"
+			}]
+			rewards: [{
+				id: "5C661FD95CCB3704"
+				type: "item"
+				item: "create:hand_crank"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 3.0d
+			dependencies: ["6BE8393989EBB1EA"]
+			id: "44A685BE46F764D2"
+			tasks: [{
+				id: "54823D65249232E9"
+				type: "item"
+				item: "create:andesite_alloy"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 4.0d
+			dependencies: ["44A685BE46F764D2"]
+			id: "0A11B8A75ED0BB14"
+			tasks: [{
+				id: "49C28B7D96B98226"
+				type: "item"
+				item: "create:mechanical_press"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 4.0d
+			dependencies: ["44A685BE46F764D2"]
+			id: "1C5E0198CB1CBD52"
+			tasks: [{
+				id: "2E434F096A5BFF75"
+				type: "item"
+				item: "create:millstone"
+			}]
+		}
+		{
+			x: -6.0d
+			y: 1.5d
+			id: "29D7416BDC7E6F6B"
+			tasks: [{
+				id: "7B6B1BBDAD1A99BD"
+				type: "item"
+				item: "create:precision_mechanism"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -0.5d
+			dependencies: ["29D7416BDC7E6F6B"]
+			size: 2.0d
+			id: "1F2F9045DE9F53AA"
+			tasks: [{
+				id: "3FCC3189AF840F20"
+				type: "item"
+				item: "mekanism:basic_control_circuit"
+			}]
+		}
+	]
+	quest_links: [ ]
+}
