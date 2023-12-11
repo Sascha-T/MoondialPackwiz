@@ -1296,6 +1296,11 @@ hash = "ea7339a3a6d0832a9f12fec8029a4bcd067565cb053f40846c69502681b74a1f"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
+metafile = true
+
+[[files]]
 file = "mods/auudio-forge.pw.toml"
 hash = "908b881dc7d5c6372e5afc39594cda0331e6819f3760baa3c0459e5a020ae2bf"
 metafile = true
@@ -1580,6 +1585,11 @@ metafile = true
 [[files]]
 file = "mods/pollen.pw.toml"
 hash = "234a07addb29fb16503b9e45c15feacfe1dbd7604788d72e3930aefad352f141"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
 
 [[files]]
