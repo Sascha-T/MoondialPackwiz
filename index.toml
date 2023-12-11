@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/packwiz.yml"
+hash = "babd2026365c256b394981b49cf31530e82e45a9766b6ab0f4165ca8a35f8268"
+
+[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "c013dc1f7331b247e92c51fbc316aba4cfaa428af07548be83bab2d5c3e12c57"
 
@@ -1288,7 +1292,7 @@ metafile = true
 
 [[files]]
 file = "mods/audio-extension-for-fancymenu-forge.pw.toml"
-hash = "175feff13ab11089dd8de0393e3efc7d29f2a072402cf30e07a2c83244c95fb9"
+hash = "ea7339a3a6d0832a9f12fec8029a4bcd067565cb053f40846c69502681b74a1f"
 metafile = true
 
 [[files]]
@@ -1358,7 +1362,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "ce026fd0514b1ca7d8dfc7816044f4d3b36c7f74d90f7751eed4e75acaf7d044"
+hash = "94ecdf756d9916c01226f0ef111592555b65767578433bd8238e30755353eac1"
 metafile = true
 
 [[files]]
@@ -1367,7 +1371,7 @@ hash = "aaeb065c9f7cdc81ffb941b9e4c67909ad7d7969b95d1ec207081fa43c689b34"
 
 [[files]]
 file = "mods/entity-collision-fps-fix.pw.toml"
-hash = "ab799aeda7413bcb31c2119de91f50833168badc173df42a8476aa7f11fc5dd3"
+hash = "a31129e9872da152b3beebfe89d19fd7113714fbc82481a04a82ca978384bda5"
 metafile = true
 
 [[files]]
@@ -1382,7 +1386,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "e290aa74080c94bb3f0359b2d09dad0df94ac1bd0251c29dfead6e108984bac9"
+hash = "f3879c7f8e075e1474c6a0da9b5c13696ba8aeb28e555eea6d3ceb3108c5cd85"
 metafile = true
 
 [[files]]
@@ -1535,12 +1539,12 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "9ac76ec868217a2cb2aebe3cc9e70bcf723800815431559c4976565515f9aeb4"
+hash = "f39471af281bcbf9082ec445c60568d17c5a94a3d8f7be77233bb8afa5095f10"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "07820f2e9cf69d227919b049139bb03f83332d3ca2af5b4253c6e88893c47680"
+hash = "677339e3009ce3baf939f026be93885fe243369537dd55f3816a25c91940af17"
 metafile = true
 
 [[files]]
