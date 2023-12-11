@@ -1550,7 +1550,7 @@ metafile = true
 
 [[files]]
 file = "mods/mafglib.pw.toml"
-hash = "20628ba940ee3bdffc00ca912e818a7aab852eff65b2f4647efab8f1456dbd9d"
+hash = "a81ece83571b6bffbf5867e5401438a819a46c5cce863ce2a6caaf67dd9d1eb1"
 metafile = true
 
 [[files]]
