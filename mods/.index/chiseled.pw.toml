@@ -1,0 +1,14 @@
+name = "Chiseled"
+filename = "chiseled-1.18.2-0.5beta.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "eeccbf62f83e49a9275ce46e49d2fa5f0ccbe963"
+
+[update]
+[update.curseforge]
+file-id = 4055846
+project-id = 446207

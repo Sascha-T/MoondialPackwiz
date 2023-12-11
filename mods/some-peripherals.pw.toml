@@ -1,0 +1,13 @@
+name = "Some Peripherals"
+filename = "Some-Peripherals-0.0.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FhcuwyhF/versions/o65vHELY/Some-Peripherals-0.0.11.jar"
+hash-format = "sha1"
+hash = "25ffb98e72c60f6976e94b9301df729e90f22c8d"
+
+[update]
+[update.modrinth]
+mod-id = "FhcuwyhF"
+version = "o65vHELY"

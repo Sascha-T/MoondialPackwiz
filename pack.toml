@@ -1,0 +1,13 @@
+name = "Moondial"
+author = "illuc"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e322bfa0c328e6d905002bf7467f3b63131141925232c2449412da9f7901aa24"
+
+[versions]
+forge = "40.2.14"
+minecraft = "1.18.2"

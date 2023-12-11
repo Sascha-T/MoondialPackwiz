@@ -1,0 +1,14 @@
+name = "Mekanism"
+filename = "Mekanism-1.18.2-10.2.5.465.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Ce6I4WUE/versions/10.2.5.465/Mekanism-1.18.2-10.2.5.465.jar"
+hash-format = "sha512"
+hash = "c9067e5829ff950d7b7ebd0cc7a24b161a3d1b29cc0b008d8744adbec05d890c152dca0884c13675a868bde09971b58c8e1410590d12d02d257600f2b9aaa1a4"
+
+[update]
+[update.modrinth]
+mod-id = "Ce6I4WUE"
+version = "zWt8Aemn"

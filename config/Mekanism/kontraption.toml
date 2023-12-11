@@ -1,0 +1,16 @@
+
+#Kontraption Config. This config is synced between server and client.
+[kontraption]
+	#How powerful the liquid fuel thruster is. (3x3)
+	liquidFuelThrust = 60.0
+	#How powerful the ion thruster is.
+	ionThrust = 1.0
+	#How powerful the gyro is.
+	gyroTorqueStrength = 100.0
+	#At what speed the thruster starts slowing down (wip, currently just stops the thruster)
+	thrusterSpeedLimit = 100.0
+	#How much fuel does the liquid fuel thruster use
+	liquidFuelConsumption = 30.0
+	#How much energy does the ion thruster use.
+	ionConsumption = 100.0
+

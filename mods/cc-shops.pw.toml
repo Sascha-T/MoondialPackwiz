@@ -1,0 +1,13 @@
+name = "CC Shops"
+filename = "ccshops-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d234ff11ca33252cd59a3758e865af80ab452d6a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4691696
+project-id = 901020
