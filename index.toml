@@ -1300,6 +1300,11 @@ hash = "0112d33ef55ca337e21a5d71bb570ef8a72eb408f68ad1c9b7f58835cf579980"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "3221c919927b9e177d138d76187442b7794fcf89c4b58af8015352f1174ea6d1"
+metafile = true
+
+[[files]]
 file = "mods/audio-extension-for-fancymenu-forge.pw.toml"
 hash = "ea7339a3a6d0832a9f12fec8029a4bcd067565cb053f40846c69502681b74a1f"
 metafile = true
@@ -1410,6 +1415,11 @@ hash = "99f746f648abbcdc1c35c4c98562c4e53a407646311d78e4a7c3762a5d3ce304"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "3fbeebeafd2cf899a3235106343689c2e8522deb8eea32fe1bbdb28563fd57f7"
+metafile = true
+
+[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "94ecdf756d9916c01226f0ef111592555b65767578433bd8238e30755353eac1"
 metafile = true
@@ -1431,6 +1441,11 @@ metafile = true
 [[files]]
 file = "mods/eureka-ships.pw.toml"
 hash = "6e60ea1edbe0ffb86f9c4536cb196926d2dfef184202678f9c267eb5547fcc3e"
+metafile = true
+
+[[files]]
+file = "mods/expandability.pw.toml"
+hash = "2ecdf3ae76d4ad10da711a93c966f6306c1bfdec39fe9f6c356000e600bf5844"
 metafile = true
 
 [[files]]
