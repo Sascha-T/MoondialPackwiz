@@ -1504,6 +1504,11 @@ hash = "027c8c104eb2eaef7281aec4aad31a360e8a7413a6130ba333252c4b11c9ab52"
 metafile = true
 
 [[files]]
+file = "mods/hostile-neural-networks.pw.toml"
+hash = "5f2ba207e0c070c044c7b5c2dc9d31508da3f847cecfe87d0ce7b905fad4d4c4"
+metafile = true
+
+[[files]]
 file = "mods/item-filters.pw.toml"
 hash = "b5d50a2815512a7e2224173edd77f7b798c29607640f8144e4c3f122d61b40d6"
 metafile = true
@@ -1610,6 +1615,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "286d62b4f15a54acaedfd98c90293d8db5e0ae28c95f78726274c85386f2b7c1"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "ea3a680ef8777698e5c14a23ce80e6972baf3f223d56de8ad503dcebbdf0b428"
 metafile = true
 
 [[files]]
