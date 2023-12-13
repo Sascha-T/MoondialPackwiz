@@ -1340,6 +1340,11 @@ hash = "06fadd1cf6120d4c660bf130cc8e3f4c595d2b8471d2c8d860229df475ff1a18"
 metafile = true
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "d58816446d4649c88c79776c696b1a5a4863f4589dd6bee04f5f2a140228b31e"
+metafile = true
+
+[[files]]
 file = "mods/cc-shops.pw.toml"
 hash = "d1da2c01b83f0d6582a10f23adff004e47d6d547f9b0dc29ae2e858bbc718f55"
 metafile = true
@@ -1362,6 +1367,11 @@ metafile = true
 [[files]]
 file = "mods/cobblefordays.pw.toml"
 hash = "46a5008339fe37282cbe0fb769b6eae8b794720dd57df1ffa9fcf204721bdedf"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "d647c96a37237cca3668cff8e0467a411e25eb783a9ce7c7d05a414a98da986c"
 metafile = true
 
 [[files]]
