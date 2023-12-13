@@ -1360,6 +1360,11 @@ hash = "4f495fc01341d03538efb6bca187cfee04c9ed08d30184dfc3384bf73c1dbb31"
 metafile = true
 
 [[files]]
+file = "mods/cobblefordays.pw.toml"
+hash = "46a5008339fe37282cbe0fb769b6eae8b794720dd57df1ffa9fcf204721bdedf"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "7b6e63c2a4751ff09cd950ddc780ad00175c8132d3cc0163cba66caa4d04ca8e"
 metafile = true
