@@ -1335,6 +1335,11 @@ hash = "29f7a1cfbc20432885d12c36245b503103857c068b27865d804cbd06d9b386f9"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
+metafile = true
+
+[[files]]
 file = "mods/camera-mod.pw.toml"
 hash = "06fadd1cf6120d4c660bf130cc8e3f4c595d2b8471d2c8d860229df475ff1a18"
 metafile = true
@@ -1442,6 +1447,11 @@ metafile = true
 [[files]]
 file = "mods/effortlessbuilding-1.18-2.40.jar.disabled"
 hash = "aaeb065c9f7cdc81ffb941b9e4c67909ad7d7969b95d1ec207081fa43c689b34"
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "768168107df7cbee4da06c093a7695e0cc7ff0ad49a6b63e0857515f236f19f1"
+metafile = true
 
 [[files]]
 file = "mods/entity-collision-fps-fix.pw.toml"
